@@ -17,7 +17,7 @@ LW width - measurements of the left wing from where the wing meets the body to t
 
 LW Apex A - peak point of the left wing
 
-**Visualizations
+# Visualizations
 
 ![Rplot](https://user-images.githubusercontent.com/97116253/207204842-41de0c40-943a-42bf-af9a-0c8a641622aa.png)
 
@@ -26,9 +26,9 @@ This combined plot shows the progression of average wing length, average wing wi
 This plot maps where the cabbage butterflies are collected from. The top map was added to include the butterflies from Europe, while the second one shows which state has the highest number of cabbage butterflies in the US: California. We can also see that females are concentrated on the west coast while males are found on the east coast.
 ![Rplot02](https://user-images.githubusercontent.com/97116253/207204964-8914a9e0-7362-4ae9-94d3-6eceed5c0575.png)
 This plot shows the four different wing measurments grouped by country. We can see that average wing length and average wing width seem to stay consistent accross all the countries. In contrast, apex area is significantly lower in Canada and slightly below average in USA. Anterior spot areas is the highest in The Republic of Ireland.
-#**Ladybug 
+# Ladybug 
 
-#**Data Dictonary:
+# Data Dictonary:
 
 Species: classification comprising related organisms that share common characteristics and are capable of interbreeding
 
@@ -41,7 +41,7 @@ Identifier: The person who identified the kind of species
 Country: The country the insects were collected
 
 State: The state where the insects were collected from
-#**Visualizations:
+# Visualizations:
 ![Rplot03](https://user-images.githubusercontent.com/97116253/207205167-1a101cf6-4514-49d0-8a7f-af41f3ae7ea7.png)
 This combined plot shows individualt plots of count of species colored by plot code. We can see that plots LP-GU and LP-IC generally have a higher count of species.
 ![Rplot04](https://user-images.githubusercontent.com/97116253/207205233-2f313a35-8c3a-4d26-84cd-61b8dc9bb460.png)
