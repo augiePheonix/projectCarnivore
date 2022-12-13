@@ -2,7 +2,7 @@
 # Description
 We primarily used R studio for our analysis of the data sets provided by the biology department. The raw data we used was provided as a .CSV and .XLSX file. All of the visualizations were created in R studio to analzye data regarding Butterflies and Ladybugs. We wanted to see the wing length, wing width, and apex area by decade, grouped by sex for the butterflies data set. For the ladybugs data set, we wanted to see the count of species characterized by plot, we also saw who collected what species and we also wanted to see common species in IOWA and ILLINOIS. Data dictionary and visualizations are provided below:
 #Data Dictionary
-#**Data Dictionary
+##**Data Dictionary**
 
 Core ID: Unique identification code assigned to each specie
 
